@@ -1,16 +1,18 @@
-# Hi 👋, I'm Nitesh
+<div align="center">
+  <h1>Hi 👋, I'm Nitesh!</h1>
+</div>
 
-### ML + SWE Enthusiast | Incoming SWE Intern @ BoFA
-
-- 🌱 I'm currently learning **CS + AI @ NCSU**
-
-- 📫 How to reach me **niteshkanamarlapudi@gmail.com**
+<div align="center">
+  <h3>ML + SWE Enthusiast | CS + AI @ NCSU | Incoming SWE Intern @ BoFA</h3>
+</div>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://github.com/noteesh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="noteesh" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/noteesh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="noteesh" height="30" width="40" /></a>
 </p>
+
+---
 
 <h3 align="left">🧠 Machine Learning + AI:</h3>
 
